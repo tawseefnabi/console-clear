@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/tawseefnabi/console-clear.git"
   },
+  "publishConfig": {
+    "@tawseef:registry": "https://npm.pkg.github.com/",
+    "access": "public"
+  },
   "keywords": [
     "clear",
     "cls",
