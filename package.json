@@ -1,5 +1,5 @@
 {
-  "name": "clear-console",
+  "name": "clear-all-console",
   "version": "1.0.3",
   "description": "Clear the console, cross-platform",
   "main": "index.js",
