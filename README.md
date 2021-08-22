@@ -8,7 +8,7 @@
 ## Install
 
 ```sh
-npm install clear-console
+npm install clear-all-console
 ```
 
 <br>
