@@ -14,6 +14,10 @@
     "test": "node test.js",
     "format": "prettier --write \"./**/*.{js,json}\""
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/tawseefnabi/console-clear.git"
+	},
   "keywords": [
     "clear",
     "cls",
@@ -21,6 +25,7 @@
     "clear-console",
     "console-clear"
   ],
+  "homepage":"https://github.com/tawseefnabi/console-clear.git",
   "author": "tawseef <tawseefnabi9@gmail.com> (https://twitter.com/NabiTowseef)",
   "license": "MIT",
   "devDependencies": {
