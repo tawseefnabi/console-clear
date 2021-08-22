@@ -1,0 +1,29 @@
+{
+  "name": "console-clear",
+  "version": "1.0.0",
+  "description": "Clear the console, cross-platform",
+  "main": "index.js",
+  "bin": {
+    "clear": "index.js",
+    "cls": "index.js",
+    "cl": "indes.js",
+    "clear-console": "index.js",
+    "console-clear": "index.js"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "format": "prettier --write \"./**/*.{js,json}\""
+  },
+  "keywords": [
+    "clear",
+    "cls",
+    "cl",
+    "clear-console",
+    "console-clear"
+  ],
+  "author": "tawseef <tawseefnabi9@gmail.com> (https://twitter.com/NabiTowseef)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
