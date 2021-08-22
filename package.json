@@ -1,5 +1,5 @@
 {
-  "name": "@tos_/console-clear",
+  "name": "clear-all-console",
   "version": "1.0.1",
   "description": "Clear the console, cross-platform",
   "main": "index.js",
